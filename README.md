@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chitrash Ludhiyani
+# Hi there! 👋 I'm Chitransh Ludhiyani
 
 <div align="center">
   
