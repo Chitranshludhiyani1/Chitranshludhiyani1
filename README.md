@@ -1,37 +1,118 @@
+# Hi there! 👋 I'm Chitrash Ludhiyani
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<h1 align="center">Hi👋, I'm Chitrash Ludhiyani</h1>
+</div>
 
+## 🚀 About Me
 
-- 🔭 I’m currently working on Face Recognition
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on LinkdIn
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Anyting 😁
-- 📫 How to reach me: chitranshludhiyani103@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I'm Coder
+- 🔭 Currently working on **Face Recognition Systems** using computer vision
+- 🌱 Deepening my expertise in **Python** and **Machine Learning**
+- 👥 Open to collaborating on **innovative tech projects**
+- 💡 Always eager to learn and explore new technologies
+- 💬 Ask me about **Python, OpenCV, Web Development,** or anything tech-related!
+- 📧 Reach me at: **chitranshludhiyani103@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I debug code like solving puzzles - every error is just another mystery to solve!**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Chitranshludhiyani1_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chiragsolanki3313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiragsolanki3313@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+## 🌐 Connect With Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chitranshludhiyani1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chitranshludhiyani1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshludhiyani1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragsolanki3313/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Chitranshludhiyani1_/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chitranshludhiyani103@gmail.com)
 
-## 🌟 My Quote  
-💻 *"As long as the program isn’t compiled successfully,*  
-🔥 *I have infinite chances to fix the bugs!"*
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chitranshludhiyani1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## 💻 Tech Stack & Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chitranshludhiyani1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Chitranshludhiyani1&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshludhiyani1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chitranshludhiyani1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+  
+> *"Code is like humor. When you have to explain it, it's bad."*  
+> — Cory House
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Chitranshludhiyani1&color=brightgreen&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ Don't forget to star my repositories if you find them useful!
+
+</div>
